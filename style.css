@@ -24,9 +24,6 @@ p{
 p a{
     font-size: 25px;
 }
-a:first-child + p{
-    color:aquamarine;
-}
 #github-button{
     width: auto;
     text-align: center;
